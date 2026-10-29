@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  color: #181818;
+  background: #f8f8f6;
+  font: 18px/1.5 system-ui, sans-serif;
+}
+
+main {
+  max-width: 720px;
+  margin: 64px auto;
+  padding: 24px;
+}
